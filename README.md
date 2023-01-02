@@ -6,12 +6,11 @@ Hi🖐 , I am Hiteshwar Singh a Computer Science Graduate Student at Stony Brook
 
 # CURRENT
 1. Currently I'm focused on learning advanced techniques of Data Science and Natural Language Processing.
-2. Working on MERN stack project to revist my web-dev concepts.
-3. Always improving problem solving and DSA skills on Python/C++.
+2. Always improving problem solving and DSA skills on Python/C++.
 
 # BACKGROUND
 1. I have good uderstanding of Machine Learning and Deep Learning Concepts.
 2. I also have a *Advance* understanding of Data Structures and Algorithms and OOPS.
-3. I also have an extensive experience in Software Testing(QA).
+3. I also have experience in Software Testing(QA).
 
 
