@@ -1,5 +1,5 @@
 # Bazzinga
-https://hiteshwarsingh1.github.io/Resume/
+<!-- https://hiteshwarsingh1.github.io/Resume/ -->
 
 
 Hi🖐 , I am Hiteshwar Singh a Computer Science Graduate Student at Stony Brook University, New York. I like to solve problems and provide inovative solutions for them. I'm a Machine Learning and Data Science enthusiast. I like developing machine learning models based on state-of-the art techniques and improving their performance by applying different techniques to them. 
